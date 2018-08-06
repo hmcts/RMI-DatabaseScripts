@@ -1,0 +1,10 @@
+rundate,service,metric,count
+2018-07-18,PROBATE,Count of cases submitted in hour 9,3
+2018-07-18,PROBATE,Count of cases submitted in hour 12,1
+2018-07-18,PROBATE,Count of cases submitted in hour 14,1
+2018-07-18,PROBATE,Count of cases submitted in hour 16,1
+2018-07-18,PROBATE,Count of cases submitted in hour 18,2
+2018-07-18,PROBATE,Count of cases submitted in hour 20,1
+2018-07-18,PROBATE,Count of cases submitted in hour 22,1
+2018-07-18,PROBATE,Count of cases taking longer than 1 day to print,0
+2018-07-18,PROBATE,Count of cases in location Birmingham,6
